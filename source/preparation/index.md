@@ -6,7 +6,7 @@ status: exclude
 ```{toctree}
 :maxdepth: 2
 
-about_course
-activity_example
-activity_example2
+prior_knowledge
+mental_map
+homework_placeholder
 ```
