@@ -19,8 +19,7 @@ will_learn:
 
 needed: 
     - A personal computer
-useful:
-    - Python 3.12 documentation: https://docs.python.org/3.12/
+useful: []
 ---
 
 # Data Analysis - Visualization
