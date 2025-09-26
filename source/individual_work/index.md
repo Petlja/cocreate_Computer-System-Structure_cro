@@ -7,5 +7,4 @@ status: exclude
 :maxdepth: 2
 
 intro
-individual_work
 ```
