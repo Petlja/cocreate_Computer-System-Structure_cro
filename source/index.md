@@ -1,6 +1,7 @@
 ﻿---
 status: exclude
 alias: cocreate_Computer-System-Structure_cro
+lang: sr-Latn
 short_description: Građa računala – dijelovi računala i programska oprema
 long_description: >
     <p>U ovom kursu ćeš naučiti prepoznati i razumjeti osnovne dijelove računala. Kroz praktične zadatke izrađivat ćeš mentalne mape, analizirati različite računalne konfiguracije i u timu odabrati optimalni prijenosni računalni model za određene potrebe. Razvijat ćeš vještine timske suradnje, argumentacije odabira i izradu prezentacija na zanimljiv i kreativan način.</p>
