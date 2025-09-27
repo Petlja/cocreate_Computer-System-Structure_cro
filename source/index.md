@@ -4,7 +4,7 @@ alias: cocreate_Computer-System-Structure_cro
 lang: sr-Latn
 short_description: Građa računala – dijelovi računala i programska oprema
 long_description: >
-    <p>U ovom kursu ćeš naučiti prepoznati i razumjeti osnovne dijelove računala. Kroz praktične zadatke izrađivat ćeš mentalne mape, analizirati različite računalne konfiguracije i u timu odabrati optimalni prijenosni računalni model za određene potrebe. Razvijat ćeš vještine timske suradnje, argumentacije odabira i izradu prezentacija na zanimljiv i kreativan način.</p>
+    <p>U ovoj lekciji ćeš naučiti prepoznati i razumjeti osnovne dijelove računala. Kroz praktične zadatke izrađivat ćeš mentalne mape, analizirati različite računalne konfiguracije i u timu odabrati optimalni prijenosni računalni model za određene potrebe. Razvijat ćeš vještine timske suradnje, argumentacije odabira i izradu prezentacija na zanimljiv i kreativan način.</p>
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
