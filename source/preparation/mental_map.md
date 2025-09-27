@@ -25,7 +25,7 @@
     vizualne oznake.
 
 6.  Kada završite, izvezite mapu u obliku slike i predajte je putem
-    Petlje na sledećoj aktivnost.
+    Petlje u sljedećoj aktivnosti.
 
 ```{raw} html
 <div style="text-align: center">

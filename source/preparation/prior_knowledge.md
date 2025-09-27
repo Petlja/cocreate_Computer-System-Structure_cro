@@ -1,4 +1,4 @@
-﻿# Stečeno znanje
+﻿# Potrebno predznanje
 
 **Prije ove lekcije već si naučio/naučila:** 
 
@@ -19,3 +19,5 @@
 Ovi su pojmovi postupno obrađeni na prethodnim satima i sada ih za
 domaću zadaću trebaš organizirati u mentalnu mapu. Mentalna mapa će ti
 na idućem satu služiti kao oslonac za samostalne i grupne zadatke.
+
+U sljedećoj aktivnosti pronaći ćeš upute za izradu mentalne mape.

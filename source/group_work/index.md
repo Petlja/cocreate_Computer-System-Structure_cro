@@ -8,7 +8,5 @@ status: exclude
 
 intro
 task
-presentation
 evaluation
-reflection
 ```
