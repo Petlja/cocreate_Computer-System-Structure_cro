@@ -1,11 +1,11 @@
 
-# Vrednovanje
+# Prezentacije i rasprava  
 
-## (5 minuta)
+Vrijeme je da predstavite svoja rješenja!  
 
-```{infonote} 
-**Ovo smo već imali na početku. Treba li ostati ovde samostalno ili biti deo sledeće stranice?**
-```
+Pažljivo prati prezentacije drugih grupa da možeš sudjelovati u raspravi.  
+
+## Vrednovanje
 
 Vaš se rad ocjenjuje na temelju dva elementa:
 
