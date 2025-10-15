@@ -27,3 +27,11 @@ zadatak (10 bodova).
 | Nedovoljan (1)   | 0-9    |
 
 
+U idućoj aktivnosti samostalno rješavaš zadatke na računalu.
+
+Tvoj je zadatak analizirati četiri različite konfiguracije računala i, uz pomoć mentalne mape tvoje grupe, odgovoriti na pitanja. Pazi, može biti jedan ili više točnih odgovora.
+
+Predviđeno vrijeme: **15 min**    
+
+Nakon predaje dobit ćeš automatsku povratnu informaciju o uspješnosti te ćemo zajedno prokomentirati odgovore.
+
