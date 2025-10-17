@@ -13,6 +13,8 @@ mentalne mape.
 
 -   Prijenosno računalo za uređivanje videa -- do 2500 €
 
+-   Prijenosno računalo za programiranje — do 2500 €
+
 ## Uloge u timu
 
 -   **Istraživač**: pronalazi potrebne informacije pomoću zajedničke umne
