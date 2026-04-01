@@ -91,5 +91,5 @@ html_show_sourcelink = False
 #     # Connect to the 'builder-inited' event
 #     app.connect('builder-inited', on_builder_inited)
 
-#additional_build_targets =['scorm' , 'moodle']
-content_uri = './'
+additional_build_targets =['scorm' , 'moodle']
+content_uri = 'https://petljastorage.blob.core.windows.net/kursevi/2026/cocreate_Computer-System-Structure_cro/'
