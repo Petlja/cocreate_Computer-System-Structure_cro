@@ -6,6 +6,6 @@ status: exclude
 ```{toctree}
 :maxdepth: 2
 
-za_nastavnike
+for_teachers
 
 ```
