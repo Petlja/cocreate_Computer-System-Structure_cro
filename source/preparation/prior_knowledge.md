@@ -20,4 +20,4 @@ Ovi su pojmovi postupno obrađeni na prethodnim satima i sada ih za
 domaću zadaću trebaš organizirati u mentalnu mapu. Mentalna mapa će ti
 na idućem satu služiti kao oslonac za samostalne i grupne zadatke.
 
-U sljedećoj aktivnosti pronaći ćeš upute za izradu mentalne mape.
+Ukoliko ti neki od pojmova još nisu u potpunosti poznati, predlažemo da pogledaš sljedeći video: [Osnovni dijelovi računala](https://www.youtube.com/watch?v=tbNRCC9loMs) 
