@@ -9,7 +9,7 @@
     a.  Svi članovi grupe se registriraju na Miro platformu koristeći
         školski mail.
 
-    b.  Jedan član grupe stvara mapu i poziva ostale članove grupe kako
+    b.  Jedan član grupe stvara mapu, kopira je na novu mapu povezanu sa svojim računom i poziva ostale članove grupe kako
         bi svi mogli uređivati mapu.
 
 3.  Pogledajte predložak mentalne mape objavljen na Petlji i, na temelju
