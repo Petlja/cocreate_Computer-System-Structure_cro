@@ -2,9 +2,8 @@
 
 ## (5 minuta)
 
-Sad kad si sve završio/la odvoji nekoliko minuta da promisliš o vlastitom radu i radu tima. 
+Sad kad si sve završio/la, odvoji nekoliko minuta da promisliš o vlastitom radu i radu svog tima. Nije potrebno ništa ispunjavati — pročitaj sljedeće tvrdnje i za svaku iskreno razmisli koliko se odnosi na tvoj tim. Gdje ste bili jaki? Gdje ima mjesta za napredak? 
 
-Ispuni kratki upitnik za refleksiju i sudjeluj u zajedničkoj raspravi ili promisli o sljedećim aspektima timskog rada: 
 1.	Tijekom rada u timu svi smo bili jednaki i poštovali smo jedni druge.
 2.	Održavali smo dobru atmosferu čak i kada smo razmišljali različito.
 3.	Svi smo bili odgovorni za rad grupe.
@@ -15,7 +14,7 @@ Ispuni kratki upitnik za refleksiju i sudjeluj u zajedničkoj raspravi ili promi
 8.	Pametno smo rasporedili vrijeme da bismo uspješno obavili zadatak.
 9.	Pratili smo svoj napredak i razmišljali o sljedećim koracima. 
 
-Pritom možeš koristiti niže predloženu skalu. 
+Ako procijeniš da neko od ovih načela u tvom timu nije bilo dovoljno prisutno, razmisli što bi ti osobno mogao/la učiniti drugačije u sljedećem timskom radu. 
 
 ## Upitnik
 
