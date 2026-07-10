@@ -2,10 +2,20 @@
 
 ## (5 minuta)
 
-Na kraju sata odvoji nekoliko minuta da promisliš o vlastitom radu i
-radu grupe.
+Sad kad si sve završio/la odvoji nekoliko minuta da promisliš o vlastitom radu i radu tima. 
 
-Ispuni kratki upitnik za refleksiju i sudjeluj u zajedničkoj raspravi.
+Ispuni kratki upitnik za refleksiju i sudjeluj u zajedničkoj raspravi ili promisli o sljedećim aspektima timskog rada: 
+1.	Tijekom rada u timu svi smo bili jednaki i poštovali smo jedni druge.
+2.	Održavali smo dobru atmosferu čak i kada smo razmišljali različito.
+3.	Svi smo bili odgovorni za rad grupe.
+4.	Pomagali smo jedni drugima da svi doprinesu radu grupe.
+5.	Trudili smo se uključiti svakog člana tima u donošenje odluka.
+6.	Razmatrali smo različite ideje kako bismo odabrali najbolje rješenje.
+7.	Razrađivali smo ideje, raspravljali o njima i smišljali rješenja. 
+8.	Pametno smo rasporedili vrijeme da bismo uspješno obavili zadatak.
+9.	Pratili smo svoj napredak i razmišljali o sljedećim koracima. 
+
+Pritom možeš koristiti niže predloženu skalu. 
 
 ## Upitnik
 
