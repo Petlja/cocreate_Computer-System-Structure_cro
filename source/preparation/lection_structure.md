@@ -23,7 +23,7 @@ Na kraju nastavnog sata vrednovat će se svaki dio vašeg rada:
 | Nedovoljan (1)	 |0–14|
 
 
-
+```{suggestionnote} 
 Vaša konačna ocjena neće ovisiti samo o znanju, nego i o načinu na koji sudjelujete u radu, surađujete s drugima i doprinosite pozitivnoj radnoj atmosferi unutar tima. Kako bi rad u timu bio uspješan, važno je pridržavati se sljedećih pravila suradnje:
 - 	Svi članovi tima imaju jednaku vrijednost i prema svima se odnosimo s poštovanjem.
 - 	Održavamo konstruktivnu i pozitivnu atmosferu, čak i kada imamo različita mišljenja.
@@ -34,5 +34,6 @@ Vaša konačna ocjena neće ovisiti samo o znanju, nego i o načinu na koji sudj
 - 	Ideje razvijamo zajednički, raspravljamo o njima i oblikujemo konačna rješenja.
 - 	Vrijeme koristimo odgovorno kako bismo zadatak dovršili u predviđenom roku.
 - 	Pratimo napredak skupine i dogovaramo daljnje korake.
+```
 
 Na sljedećoj stranici pronaći ćeš upute za izradu mentalne mape.
