@@ -1,6 +1,5 @@
 # Refleksija
 
-## VERZIJA ZA UČENIKE
 
 Sad kad si sve završio/la, odvoji nekoliko minuta da promisliš o vlastitom radu i radu svog tima. Nije potrebno ništa ispunjavati — pročitaj sljedeće tvrdnje i za svaku iskreno razmisli koliko se odnosi na tvoj tim. Gdje ste bili jaki? Gdje ima mjesta za napredak? 
 
@@ -16,9 +15,8 @@ Sad kad si sve završio/la, odvoji nekoliko minuta da promisliš o vlastitom rad
 
 Ako procijeniš da neko od ovih načela u tvom timu nije bilo dovoljno prisutno, razmisli što bi ti osobno mogao/la učiniti drugačije u sljedećem timskom radu. 
 
-## VERZIJA ZA NASTAVNIKE
 
-### Refleksija o timskom radu — upute za nastavnike:
+```{learnmorenote} Refleksija o timskom radu — upute za nastavnike:
 
 U nastavku se nalaze pitanja za refleksiju o timskom radu. Predlažemo da ih integrirate u neki od online upitnika (npr. Google Forms, Microsoft Forms ili alat koji koristite na svojoj platformi), podijelite s učenicima te nakon što učenici riješe upitnik zajednički prodiskutirate o pitanjima i rezultatima.
 
@@ -48,3 +46,4 @@ Tvrdnje za procjenu:
 #### Prijedlog za raspravu nakon upitnika
 
 Pregledajte rezultate s učenicima. Ako je prosječna ocjena za neko načelo niža od 3, to je znak da bi tim trebao raditi na poboljšanju tog aspekta timskog rada u budućnosti. Potaknite učenike da konkretiziraju: što se točno događalo, zašto, i što bi svaki član tima mogao učiniti drugačije sljedeći put.
+```
