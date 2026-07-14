@@ -1,5 +1,10 @@
 # Uvod
 
+```{learnmorenote} Uputa za nastavnika: 
+
+Prije pokretanja lekcije, potrebno je izmijeniti niže navedene bulete navodeći naziv ili broj grupe te ostavljajući dovoljan broj scenarija.
+```
+
 Sada radite u istim grupama od 3 do 4 učenika u kojima ste izrađivali
 mentalne mape.
 
@@ -38,29 +43,6 @@ Iako je svakom članu grupe dodijeljena posebna uloga, svi pomažete jedni
 drugima u svim dijelovima zadatka. Tvoja je odgovornost da dio posla
 koji pripada tvojoj ulozi bude odrađen kvalitetno i na vrijeme, ali
 istovremeno surađuješ i doprinosiš zajedničkom rješenju grupe.
-```
-
-
-```{suggestionnote} 
-**PRAVILA USPJEŠNE SURADNJE**
-
--   Svi smo jednaki i poštujemo jedni druge.
-
--   Održavamo dobru atmosferu čak i kada razmišljamo različito.
-
--   Svi smo odgovorni za rad grupe.
-
--   Pomažemo svima da doprinesu radu grupe.
-
--   Trudimo se uključiti svakog člana grupe u donošenje odluka.
-
--   Razmatramo različite ideje kako bismo odabrali najbolje rješenje.
-
--   Razrađujemo ideje, raspravljamo o njima i smišljamo rješenja.
-
--   Pametno koristimo vrijeme da bismo obavili zadatak.
-
--   Pratimo svoj napredak i razmišljamo o sljedećem koraku.
 ```
 
 ## Vrednovanje
