@@ -1,15 +1,103 @@
 # Kviz: konfiguracija računala
 
-**Word: Grupni rad- građa računala primjena**
+![Slika kviza](images/image1.png)
 
-Pitanja: 
-- Koje računalo pruža najlošiju kvalitetu zvuka?
-- Koje računalo ima najviše radne memorije?
-- Na kojem računalu je Microsoft operacijski sustav?
-- Koji monitor ima najbolju rezoluciju?
-- Koje računalo ima najbolju kombinaciju diskova za pohranu velike količine podataka?
-- Koje računalo se ne može spojiti na bežičnu mrežu?
-- Na kojem računalu se može pohraniti najmanje podataka?
-- Kada bi gledali procesor, radnu memoriju i grafičku karticu koje bi računalo bilo najjače?
-- Kada bi gledali procesor, radnu memoriju i grafičku karticu koje bi računalo bilo najslabije?
-- Koje računalo ima najbrži procesor?
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 4
+
+Kada bi gledali procesor, radnu memoriju i graficku karticu koje bi racunalo bilo najslabije?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 2
+
+Kada bi gledali procesor, radnu memoriju i graficku karticu koje bi racunalo bilo najjace?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 1
+
+Koji monitor ima najbolju rezoluciju?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 2
+
+Koje racunalo ima najviše radne memorije?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 4
+
+Koje racunalo pruža najlošiju kvalitetu zvuka?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 2,3
+
+Koje racunalo ima najbrži procesor?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 4
+
+Na kojem racunalu se može pohraniti najmanje podataka?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 2
+
+Koje racunalo ima najbolju kombinaciju diskova za pohranu velike kolicine podataka?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 4
+
+Koje racunalo se ne može spojiti na bežicnu mrežu?
+```
+
+```{mchoice}
+:answer1: 1;
+:answer2: 2;
+:answer3: 3;
+:answer4: 4;
+:correct: 3
+
+Na kojem racunalu je Microsoft operacijski sustav?
+```
