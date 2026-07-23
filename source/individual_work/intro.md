@@ -10,8 +10,6 @@ U svrhu ponavljanja znanja o dijelovima računala u timovima ste izradili mental
 
 U idućoj aktivnosti samostalno rješavaš zadatke na računalu.
 
-Pogledajmo zajedno izrađene mentalne mape!
-
 Tvoj je zadatak analizirati četiri različite konfiguracije računala i, uz pomoć mentalne mape tvoje grupe, odgovoriti na pitanja. Pazi, može biti jedan ili više točnih odgovora.
 
 Predviđeno vrijeme: **15 min**    

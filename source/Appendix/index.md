@@ -6,6 +6,5 @@ status: exclude
 ```{toctree}
 :maxdepth: 2
 
-for_teachers
 
 ```
