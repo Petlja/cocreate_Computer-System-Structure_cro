@@ -2,7 +2,7 @@
 
 **Ova lekcija ima tri komponente:**
 
-![Slika kviza](images/Slika_1_CRO.jpg)
+![Slika kviza](images/Slika_1_CRO.png)
 
 Na kraju nastavnog sata vrednovat će se svaki dio vašeg rada:
 
