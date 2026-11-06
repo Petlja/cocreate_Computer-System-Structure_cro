@@ -1,58 +1,80 @@
-# Uvod
+# Introducció
 
-```{learnmorenote} Uputa za nastavnika: 
+```{learnmorenote} Instruccions per al professor: 
 
-Prije početka lekcije odredite koji će scenarij dobiti koja skupina i jasno to objasnite učenicima. 
+Abans de començar la lliçó, és necessari modificar les bales següents indicant el nom o número del grup i deixant un nombre suficient d'escenaris.
 ```
 
-Sada radite u istim grupama od 3 do 4 učenika u kojima ste izrađivali
-mentalne mape.
+Ara treballeu en els mateixos grups de 3 a 4 estudiants en els quals
+vau fer els mapes mentals.
 
-**Svaka grupa dobiva određeni scenarij i budžet:**
+**Cada grup rep un escenari i un pressupost específics:**
 
--   Prijenosno računalo za školu -- do 700 €
+-   Ordinador portàtil per a l'escola -- fins a 700 €
 
--   Prijenosno računalo za igranje igrica -- do 3000 €
+-   Ordinador portàtil per jugar a videojocs -- fins a 3000 €
 
--   Prijenosno računalo za osnovni uredski rad -- do 1000 €
+-   Ordinador portàtil per a tasques administratives bàsiques -- fins a 1000 €
 
--   Prijenosno računalo za uređivanje videa -- do 2500 €
+-   Ordinador portàtil per editar vídeos -- fins a 2500 €
 
--   Prijenosno računalo za programiranje — do 2500 €
+-   Ordinador portàtil per a programació -- fins a 2500 €
 
-## Uloge u timu
+## Rols en l'equip
 
--   **Istraživač**: pronalazi potrebne informacije pomoću zajedničke umne
-    mape i pretražuje relevantne online izvore.
+-   **Investigador**: troba la informació necessària amb la mapa mental
+    compartida i busca fonts en línia rellevants.
 
--   **Zapisničar**: bilježi odgovore grupe i provjerava jesu li u skladu sa
-    zadanim specifikacijama.
+-   **Secretari**: registra les respostes del grup i verifica que siguin
+    coherents amb les especificacions donades.
 
--   **Tehničar**: pronalazi odabrani laptop u online trgovini i provjerava
-    odgovara li zadanim zahtjevima.
+-   **Tècnic**: busca l'ordinador portàtil seleccionat en una botiga en
+    línia i verifica que compleixi els requisits especificats.
 
--   **Prezenter**: priprema kratku prezentaciju u kojoj prikazuje
-    specifikacije odabranog računala i obrazlaže izbor grupe.
+-   **Presentador**: prepara una breu presentació que mostra les
+    especificacions de l'ordinador seleccionat i justifica l'elecció del
+    grup.
 
-Ako su u grupi tri člana, uloge zapisničara i prezentera se spajaju.
+Si el grup té tres membres, els rols de secretari i presentador es
+combinen.
 
 ```{infonote} 
-**Napomena**
+**Nota**
 
-Iako je svakom članu grupe dodijeljena posebna uloga, svi pomažete jedni
-drugima u svim dijelovima zadatka. Tvoja je odgovornost da dio posla
-koji pripada tvojoj ulozi bude odrađen kvalitetno i na vrijeme, ali
-istovremeno surađuješ i doprinosiš zajedničkom rješenju grupe.
+Although cada membre del grup té assignat un rol específic, tots ajudeu els
+altres en tots els aspectes de la tasca. La teva responsabilitat és que la
+part del treball corresponent al teu rol es faci amb qualitat i a temps,
+pero al mateix temps col·laboreu i contribuïu a la solució comuna del
+grupo.
 ```
 
-## Vrednovanje
+```{suggestionnote}
+**REGLES DE COL·LABORACIÓ REEIXIDA**
 
-Zadatak će se vrednovati rubrikom:
+- Tots som iguals i ens respectem mútuament.
 
-  | Kategorija                                | Opis                                                                                                                                                                                                                                   | Bodovi |
-|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Tehničke specifikacije                     | Računalo odgovara zadanim zahtjevima scenarija: procesor, RAM, tip i kapacitet memorije, grafička kartica, zaslon i ostalo. Specifikacije su realne i unutar budžeta.                           | 0–2    |
-| Pronalazak odgovarajućeg modela            | Grupa je uspješno pronašla konkretan model laptopa u internetskoj trgovini koji odgovara dogovorenim specifikacijama i nudi najbolju vrijednost za novac.                                        | 0–2    |
-| Suradnja u grupi                           | Svi članovi aktivno sudjeluju, poštuju pravila uspješne suradnje, pomažu jedni drugima i odgovorno izvršavaju dodijeljene uloge.                                                                 | 0–2    |
-| Kvaliteta prezentacije (slajd i izlaganje) | Slajd je pregledan i informativan, sadrži sve tražene informacije i vizualne elemente. Izlaganje je jasno i dovoljno glasno te traje 3–4 minute.                                                | 0–2    |
-| Obrazloženje izbora i argumentacija        | Grupa jasno argumentira zašto su odabrali te specifikacije i taj laptop te kako on zadovoljava potrebe korisnika iz scenarija.                                                                  | 0–2    |
+- Mantenim un bon ambient fins i tot quan pensem de manera diferent.
+
+- Tots som responsables del treball del grup.
+
+- Ajudem tothom a contribuir al treball del grup.
+
+- Ens esforcem per incloure cada membre del grup en la presa de decisions.
+
+- Considerem diferents idees per triar la millor solució.
+
+- Desenvolupem idees, en debatem i pensem en solucions.
+
+- Fem servir intel·ligentment el temps per completar la tasca.
+
+- Fem un seguiment del nostre progrés i pensem en el pas següent.
+
+```
+
+## Avaluació
+
+La tasca s'avaluarà amb una rúbrica:
+
+  | Categoria                                | Descripció                                                                                                                                                                                                                   | Punts |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Especificacions tècniques                  | L'ordinador compleix els requisits de l'escenari: processador, RAM, tipus i capacitat de memòria, targeta gràfica, pantalla i altres. Les especificacions són realistes i dins del pressupost.                                  | 0–2    |
