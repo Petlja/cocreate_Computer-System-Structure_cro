@@ -1,35 +1,34 @@
-# Prezentacija
+# Presentació
 
-## Zadatak
-### (30 minuta)
+## Tasca
+### (30 minuts)
 
-Sada kada ste raspoređeni u grupe, započnite s radom na pronalaženju prijenosnog računala koje najbolje odgovara vašem scenariju. Za grupni rad imate ukupno 30 minuta. Od toga je 20 minuta predviđeno za istraživanje i dogovor u timu, a preostalih 10 minuta za unos podataka u Google Slides i pripremu prezentacije.
+Ara que esteu dividits en grups, comenceu a treballar per trobar l'ordinador portàtil que millor s'ajusta al vostre escenari. Per al treball de grup teniu un total de 30 minuts. D'aquests, 20 minuts es dediquen a investigació i acord en equip, i els últims 10 minuts per introduir dades a Google Slides i preparar la presentació.
 
-Zadatak grupe
-Osmislite konfiguraciju prijenosnog računala za dodijeljeni scenarij i odgovorite na sljedeća pitanja:
+Tasca del grup
+Dissenyeu una configuració d'ordinador portàtil per a l'escenari assignat i responeu les següents preguntes:
 
--	Kakav vam je procesor potreban – koliko jezgri i koliki približan takt procesora?
--	Koliki kapacitet radne memorije je dovoljan za vašu namjenu?
--	Koju vrstu i koliki kapacitet masovne memorije trebate?
--	Što računalo još mora imati obzirom na vašu namjenu (npr. grafička kartica, portovi, operacijski sustav, veličina i kvaliteta zaslona…)?
--	Pronaći model — Na temelju dogovorenih specifikacija, u hrvatskoj internetskoj trgovini pronađite model prijenosnog računala koji najbolje odgovara vašim zahtjevima. Pokušajte dobiti najbolju vrijednost za raspoloživi novac.
--	Priprema slajda — Na temelju dogovorenih specifikacija pripremite jedan slajd u zajedničkom dokumentu Google Slides. Slajd treba sadržavati:
-    -	Naziv grupe, namjenu prijenosnog računala i budžet
-    -	Tehničke specifikacije (procesor, RAM, masovna memorija, OS i ostalo)
-    -	Slika odabranog laptopa i poveznica na trgovinu
--	Priprema izlaganja — Pripremite kratko izlaganje (3–4 minute) u kojem ćete objasniti:
-    -	Zašto ste odabrali te specifikacije?
-    -	Zašto baš to prijenosno računalo?
-    -	Kako odgovara potrebama korisnika iz scenarija?
+-	Quin processador necessiteu – quants nuclis i quina velocitat aproximada?
+-	Quina capacitat de memòria RAM és suficient per al vostre ús?
+-	Quin tipus i quina capacitat de memòria de massa necessiteu?
+-	Què més hauria de tenir l'ordinador tenint en compte el vostre ús (per exemple, targeta gràfica, ports, sistema operatiu, mida i qualitat de la pantalla…)?
+-	Trobar model — Basant-vos en les especificacions acordades, en una botiga en línia trobareu un model d'ordinador portàtil que millor s'ajusti als vostres requisits. Intenteu obtenir el millor valor per al diners disponibles.
+-	Preparació de diapositiva — Basant-vos en les especificacions acordades, prepareu una diapositiva en el document compartit de Google Slides. La diapositiva ha de contenir:
+    -	Nom del grup, ús de l'ordinador portàtil i pressupost
+    -	Especificacions tècniques (processador, RAM, memòria de massa, SO i altres)
+    -	Imatge de l'ordinador portàtil seleccionat i enllaç a la botiga
+-	Preparació de la presentació — Prepareu una breu presentació (3–4 minuts) en la qual expliqueu:
+    -	Per què heu triat aquestes especificacions?
+    -	Per què aquest ordinador portàtil en concret?
+    -	Com compleix les necessitats de l'usuari en l'escenari?
 
 
     ```{raw} html
     <div style="text-align: center">
         <iframe width="768" height="432"
-        src="https://docs.google.com/presentation/d/16kmO5vkANgAS2JJKsQMFN2KVORtKCq9o1ILz20ClMZ0/edit?slide=id.g37c7171be75_0_1122#slide=id.g37c7171be75_0_1122"
+        src="https://docs.google.com/presentation/d/1cZT-xDW6Z8KYd_xLe5LKaNPmVmlPMUQ1/edit?usp=sharing&ouid=107308139824931091986&rtpof=true&sd=true"
         frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
         clipboard-write" allowfullscreen>
         </iframe>
     </div>
     ```
-    
